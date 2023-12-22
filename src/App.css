@@ -1,0 +1,9 @@
+body{
+  height: 100vh;
+  width: 100%;
+  z-index: 9999; 
+}
+
+.spinner{
+  text-align: center;
+}
